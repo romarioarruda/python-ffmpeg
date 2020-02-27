@@ -3,6 +3,8 @@
 Tool to extract audio from video files.
 Currently extracting only .mp4 videos
 
+- Python version: 3.7.6
+
 # Imported Libs
 
 - import subprocess
