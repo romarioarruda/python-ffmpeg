@@ -5,11 +5,11 @@ Currently extracting only .mp4 videos
 
 # Imported Libs
 
-import subprocess
-import glob
-import platform
-import subprocess
-import re
+- import subprocess
+- import glob
+- import platform
+- import subprocess
+- import re
 
 # ffmpeg install
 
